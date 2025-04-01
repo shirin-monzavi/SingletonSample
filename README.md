@@ -1,7 +1,7 @@
 ## Singleton Pattern in C#
  
 ### 📌 Overview
-This repository presents singletone design pattern.This design pattern belongs to creational category and helps us to restrict creation of a class. This means, the class can have only one instance in the entire application. 
+This repository presents singleton design pattern.This design pattern belongs to creational category and helps us to restrict creation of a class. This means, the class can have only one instance in the entire application. 
 
 ### 🎯 Features
  
